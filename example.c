@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdint.h>
 #include <stdbool.h>
-#include <cmp/cmp.h>
+#include <cmp.h>
 #include "cmp_mem_access.h"
 
 int main(void)
